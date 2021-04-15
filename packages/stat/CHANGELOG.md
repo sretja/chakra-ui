@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.1.7
+
+### Patch Changes
+
+- [`a13252624`](https://github.com/chakra-ui/chakra-ui/commit/a13252624fdc69eab2dc4dbd3fa228b86380f091)
+  [#3810](https://github.com/chakra-ui/chakra-ui/pull/3810) Thanks
+  [@davidsonsns](https://github.com/davidsonsns)! - Fixed a11y issue related to
+  `StatHelpText`. It was using an invalid `dl` child tag.
+
 ## 1.1.6
 
 ### Patch Changes

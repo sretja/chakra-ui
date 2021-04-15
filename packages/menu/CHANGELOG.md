@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.4.1
+
+### Patch Changes
+
+- [`57baa5e63`](https://github.com/chakra-ui/chakra-ui/commit/57baa5e6350f89f1098a5d965b90483348aa0073)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Make it possible to
+  pass popper.js props to popover and menu
+
 ## 1.4.0
 
 ### Minor Changes
